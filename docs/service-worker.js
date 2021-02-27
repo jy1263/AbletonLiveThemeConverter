@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AbletonLiveThemeConverter/precache-manifest.258de2bf83580d2d61b593ba94d89a0a.js"
+  "/AbletonLiveThemeConverter/precache-manifest.135a37561f3ea0f3ddaa520a81e65944.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ableton-live-theme-converter-gui"});

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94a33c05140ef729652d",
+    "revision": "91d85e095a9e5224bedf",
     "url": "/AbletonLiveThemeConverter/css/app.fbb4b0e7.css"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbletonLiveThemeConverter/img/logo.82b9c7a5.png"
   },
   {
-    "revision": "09b0f725a35661fa377e3c1625be2a12",
+    "revision": "f461572f7e4c6f40c880cf1f78f464e0",
     "url": "/AbletonLiveThemeConverter/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbletonLiveThemeConverter/js/about.2182e579.js"
   },
   {
-    "revision": "94a33c05140ef729652d",
-    "url": "/AbletonLiveThemeConverter/js/app.dff32053.js"
+    "revision": "91d85e095a9e5224bedf",
+    "url": "/AbletonLiveThemeConverter/js/app.4f783e81.js"
   },
   {
     "revision": "57c9cba79a6796f96b23",
