@@ -1,4 +1,6 @@
 module.exports = {
     outputDir: '../docs',
-    publicPath: '/AbletonLiveThemeConverter/'
+    publicPath: process.env.NODE_ENV === 'production'
+    ? '/AbletonLiveThemeConverter/'
+    : '/'
 }  

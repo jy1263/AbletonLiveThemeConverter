@@ -18,7 +18,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  base: '/AbletonLiveThemeConverter/',
+  base: process.env.BASE_URL,
   history: createWebHistory(process.env.BASE_URL),
   routes
 })
